@@ -1,0 +1,8 @@
+#home::before {
+   
+    height: 46vh;
+}
+#client-details::before {
+    
+    height: 13%;
+}
